@@ -1,6 +1,6 @@
 # Solana Rupiya
 
-![Solana Rupiya Logo](https://www.svgrepo.com/show/185991/coins-wealthy.svg)
+
 
 A comprehensive dashboard for exploring and managing your Solana assets on the Devnet.
 
