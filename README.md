@@ -31,33 +31,38 @@ Solana Rupiya is a web application built on React and the Solana blockchain that
 
 ## Screenshots
 
-### Homepage
-![Homepage](./Readme/homepage.png)
-*Landing page of Solana Rupiya*
 
-### My Transactions
-![Transactions](./Readme/mytransactions.png)
-*View all transactions associated with your connected wallet*
+## Homepage
 
-### Airdrop
-![Airdrop](./Readme/airdrop.png)
-*Airdrop SOL to your wallet on the Devnet*
 
-### Balance
-![Balance](./Readme/balance.png)
-*Check your current wallet balance*
 
-### Tokens
-![Tokens](./Readme/htokens.png)
-*View and mint tokens associated with your wallet*
 
-### Sign Message
-![Sign Message](./Readme/message.png)
-*Sign messages with your wallet*
+![This is the landing page of Solana Rupiya ](./Readme/homepage.png)
 
-### Send SOL
-![Send SOL](./Readme/moneysol.png)
-*Send SOL to other addresses*
+
+## Transaction
+
+![This is the page where all your transaction associated with the connected wallet public key will show up](./Readme/mytransactions.png)
+
+## Airdrop
+
+![This is the Airdrop section, where user can airdrop themselves solana in devnet](./Readme/airdrop.png)
+
+## Balance
+
+![This page will show your current balance associated with your current wallet account](./Readme/balance.png)
+
+## Mint Tokens
+
+![This page will show all of your tokens associated with your current account in your connected wallet and you can also mint new tokens with just a click of a button](./Readme/htokens.png)
+
+## Sign Message
+
+![This page will allow you to sign a message with your signature](./Readme/message.png)
+
+## Send Sol
+
+![This page will allow you to send money to someone by taking their public key](./Readme/moneysol.png)
 
 ## Technologies Used
 
